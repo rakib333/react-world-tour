@@ -1,0 +1,21 @@
+.country {
+    border: 2px solid salmon;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.country img {
+    width: 90%;
+    height: 200px;
+    background-color: cornflowerblue;
+    border: 1px solid slateblue;
+    border-radius: 10px;
+}
+.country button {
+    padding: 10px 5px;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 10px;
+    border: 1px solid red;
+}
